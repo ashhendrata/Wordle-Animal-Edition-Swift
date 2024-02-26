@@ -1,10 +1,10 @@
-# Project 1 - *Name of App Here*
+# Project 1 - *Wordle*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ashley Hendrata**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle (Animal Edition)** is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
