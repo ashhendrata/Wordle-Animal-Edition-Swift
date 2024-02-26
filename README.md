@@ -2,7 +2,7 @@
 
 Submitted by: **Ashley Hendrata**
 
-**Wordle (Animal Edition)** is an app that ... [TODO] 
+**Wordle (Animal Edition)** is an app that allows you to guess the word while giving you hints in the form of colors!
 
 Time spent: **2** hours spent in total
 
@@ -19,20 +19,29 @@ The following **optional** features are implemented:
 - [x] Improve and customize the user interface by adding a launchscreen and app icon
 - [x] Run the app on a device rather than in the simulator
 
-The following **additional** features are implemented:
+The following **additional** features will be implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [ ] Visual effects such as a quick flash of color when a key is pressed
+- [ ] Background music
+- [ ] English word validation
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+Here is a summary of all the functionality shown on a simulator!
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+
+Here is a video of Wordle playing on my phone!
+
+https://github.com/ashhendrata/Wordle-Animal-Edition-Swift/assets/134671782/4dfbbc50-445c-47b2-b0d2-caf7c9c10a63
+
+
 
 
 ## Challenges
 
 I struggled to wrap my head around closures, but upon refering to old examples and watching a YouTube video, I figured it out!
+
+Another challenge was running the app on my phone as I had to play with settings I didn't know existed.
 
 ## License
 
