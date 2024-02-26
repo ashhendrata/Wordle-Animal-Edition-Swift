@@ -32,7 +32,8 @@ Here is a summary of all the functionality shown on a simulator!
 
 Here is a video of Wordle playing on my phone!
 
-https://github.com/ashhendrata/Wordle-Animal-Edition-Swift/assets/134671782/4dfbbc50-445c-47b2-b0d2-caf7c9c10a63
+https://github.com/ashhendrata/Wordle-Animal-Edition-Swift/assets/134671782/cc3a14f4-0404-452b-a185-7e14f7b6862b
+
 
 
 
