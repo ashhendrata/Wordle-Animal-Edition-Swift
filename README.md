@@ -27,8 +27,7 @@ The following **additional** features will be implemented:
 
 ## Video Walkthrough
 
-[Here's the link to my loom video.]([url](https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=82c63f77-082e-416f-8d49-df859761733f)) Just a quick run through all the functionality!: [https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=82c63f77-082e-416f-8d49-df859761733f](url)
-
+[Here's the link to my loom video.]([url](https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=82c63f77-082e-416f-8d49-df859761733f)) Just a quick run through all the functionality!: [https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=338d95b1-d422-4178-903e-500671712cb1]([url](https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=338d95b1-d422-4178-903e-500671712cb1))
 
 Here is a video of Wordle playing on my phone!
 
