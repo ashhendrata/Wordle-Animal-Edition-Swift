@@ -29,6 +29,8 @@ The following **additional** features will be implemented:
 
 Here's the link to my loom video. Just a quick run through all the functionality!: https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=dc02af7f-1bc6-4bec-b20d-8750850165dd
 
+![ashley_wordle](https://github.com/ashhendrata/Wordle-Animal-Edition-Swift/assets/134671782/ec1be1f0-398e-4656-a107-d7e17224492c)
+
 Here is a video of Wordle playing on my phone!
 
 https://github.com/ashhendrata/Wordle-Animal-Edition-Swift/assets/134671782/cc3a14f4-0404-452b-a185-7e14f7b6862b
