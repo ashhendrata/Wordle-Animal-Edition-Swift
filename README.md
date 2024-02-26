@@ -27,7 +27,7 @@ The following **additional** features will be implemented:
 
 ## Video Walkthrough
 
-Here is a summary of all the functionality shown on a simulator!
+[Here's the link to my loom video.]([url](https://www.loom.com/share/77d16163607941bdbcf14652171d81f5?sid=82c63f77-082e-416f-8d49-df859761733f)) Just a quick run through all the functionality!
 
 
 Here is a video of Wordle playing on my phone!
